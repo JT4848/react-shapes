@@ -1,0 +1,42 @@
+#circles1{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#circles2{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#circles3{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+
+#squares1{
+  width: 200px;
+  height: 200px;
+}
+
+#squares2{
+  width: 200px;
+  height: 200px;
+}
+
+#squares3{
+  width: 200px;
+  height: 200px;
+}
+
+
+#shapes{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+}
